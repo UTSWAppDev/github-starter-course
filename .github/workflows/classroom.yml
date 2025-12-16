@@ -19,7 +19,7 @@ jobs:
       with:
         test-name: Markdown Test
         setup-command: ''
-        command: "./tests/1.sh"
+        command: "bash ./tests/1.sh"
         timeout: 10
         max-score: 10
     - name: Autograding Reporter
