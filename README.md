@@ -24,21 +24,6 @@ Repositories also contain README’s. You can add a README file to your reposito
 
 Read more about repositories [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-repositories) and repository README’s [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-readmes). 
 
-### Pull requests
-
-Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add more changes if need be. 
-
-Adding someone as a reviewer on your pull request is a signal to them that you want help or would like them to review the content. 
-
-Read more about pull requests [here](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests). 
-
-### Issues
-
-Use issues to track enhancements, tasks, or bugs for your work on GitHub. Issues are a great way to keep track of all the tasks you want to work on for your project and let others know what you plan to work on. For larger projects, you can keep track of many issues on a project board. GitHub Projects help you organize and prioritize your work and you can read more about them [here](https://docs.github.com/en/github/managing-your-work-on-github/about-project-boards). 
-
-Pull requests and issues can also be linked together! You can link a pull request to an issue to show that a fix is in progress and to automatically close the issue when someone merges the pull request. 
-
-Read more about issues and linking them to your pull requests [here](https://docs.github.com/en/github/managing-your-work-on-github/about-issues). 
 
 ### Your user profile
 
@@ -98,9 +83,14 @@ A fork is another way to copy a repository, but is most commonly used when contr
 
 Read more about forking [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
 
+## Assignment
+* Create a file named whoami.md
+* Add a brief bio about yourself. See sample_whoami.md for examples
+* Use your markdown skills to give the page some style!
+* Commit your changes, this is how you submit your homework for grading.
+
 ## 📝 Optional next steps 
 
-* Open a pull request and let your teacher know that you’ve finished this course.  
 * Create a new markdown file in this repository. Let them know what you learned and what you are still confused about! Experiment with different styles!
 * Create your profile README. Let the world know a little bit more about you! What are you interested in learning? What are you working on? What's your favorite hobby? [Here](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme) are steps on how to do that. 
 * Go to your user dashboard and create a new repository. Experiment with the features within that repository to familiarize yourself with them. 
