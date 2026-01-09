@@ -8,9 +8,8 @@ Hello! My name is **Jonathan Reeder**, and I am the **Program Director for the M
 
 * Born in **Dallas, Texas**
 * Spent **10 years as Chief Technology Officer** of a small custom software development company
-* Transitioned careers into medicine after a decade in technology leadership 
-* Now an **Emergency Medicine physician**
-* **Chief of Service**, Clements University Hospital Emergency Department
+* Transitioned careers into medicine after a decade in technology
+* Now an **Emergency Medicine physician** and **Informatician**
 
 My career path bridges technology, informatics, and clinical medicine, allowing me to work at the intersection of systems design, data, and patient care.
 
